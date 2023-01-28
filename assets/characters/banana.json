@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				73
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "Banana Idle"
+		},
+		{
+			"offsets": [
+				-70,
+				77
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Banana LEFT NOTE"
+		},
+		{
+			"offsets": [
+				6,
+				82
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Banana RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				-66,
+				77
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Banana DOWN NOTE"
+		},
+		{
+			"offsets": [
+				12,
+				79
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Banana UP NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Banana",
+	"position": [
+		30,
+		70
+	],
+	"healthicon": "banana",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		229,
+		0
+	],
+	"camera_position": [
+		-69,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
